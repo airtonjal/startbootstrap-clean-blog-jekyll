@@ -1,25 +1,29 @@
 ---
 layout:     post
-title:      "About me"
-subtitle:   "because we got start somewhere."
+title:      "The Big Bang"
+subtitle:   "All systems go!"
 date:       2014-11-30 15:31:12
 author:     "Airton Libório"
-header-img: "img/data.gif"
+header-img: "img/triangle.gif"
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+Hi, I'm Airton (if you're a non-portuguese speaker, it pronounces 'a-yr-ton'), I'm a [software architect](http://www.linkedin.com/in/airtonliborio) and this is my first blog post ever. The intention of the contents to come is to share my reasonable experience with systems implementations, big data applications and overall software life cycle.
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+## Bio
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+I was born in the beautiful brazilian state of **[Bahia](http://en.wikipedia.org/wiki/Bahia)**, where I earned a bachelor's degree in **[computer science](http://wiki.dcc.ufba.br/DCC/)**. By mid-2008 I got interested in parallel programming and stumbled upon **[transactional memory](http://en.wikipedia.org/wiki/Transactional_memory)**, an attempt to simplify concurrent programming by using the transaction abstraction to implement atomic load and store instructions. That led to my **[final project](https://disciplinas.dcc.ufba.br/svn/MATA67/2009.2/AirtonLiborio/monografia.pdf)** (*pt-br*), in which I implemented the mechanism in [Lua](http://www.lua.org). Meanwhile, I was involved in an engineering project to optimize secondary (*end user*) energy networks. I started then doing some programming with [Java threads](http://docs.oracle.com/javase/tutorial/essential/concurrency/), [Java Swing](http://en.wikipedia.org/wiki/Swing_%28Java%29), [OpenMap](http://www.openmap.org/), among other stuff.
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+By the end of my bachelor's I started applying for some masters courses in Brazil. Thankfully I was approved in [PUC-Rio's Master of Science program in Computer Science](http://www.inf.puc-rio.br/?page_id=313), which is a very traditional and top course in the country. I moved to [Rio de Janeiro](http://en.wikipedia.org/wiki/Rio_de_Janeiro) in march 2010.
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+| The university is known for hosting the creators of one of my favorite programming languages, [Lua](http://www.lua.org). Unfortunately, even among brazilians it is not very well known :(  | ![Every brazilian should know and be proud of Lua, BTW](http://www.lua.org/images/lua.gif) | 
+
+Soon after being admitted at [PUC-Rio](http://www.puc-rio.br) I joined the [TecGraf](http://www.tecgraf.puc-rio.br/en/) laboratory, a key player in Brazil's research and development of computational solutions for the oil and gas industry.
+
+## Why blogging now
+
+I need a way to keep track of what I've been developing, technologies I come across and utterly requirements I need to able to provide. Getting input from sources seems to be a smart choice :)
 
 <h2 class="section-heading">The Final Frontier</h2>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
 
 <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
 
@@ -36,8 +40,7 @@ header-img: "img/data.gif"
 </a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
 <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+
+I currently live in the highly overrated brazilian city **[Rio de Janeiro](http://en.wikipedia.org/wiki/Rio_de_Janeiro)**. If you are interested in applying big data here in Brazil for any reason at all, or if you are just curious about what I do, feel free to drop me a line at **[airtonjal@gmail.com](airtonjal@gmail.com)**
+

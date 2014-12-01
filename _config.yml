@@ -1,12 +1,13 @@
 # Site settings
 title: the data crafter
 email: airtonjal@gmail.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "big data + software engineering = bend the principles"
 baseurl: ""
 url: "http://thedatacrafter.com"
 twitter_username: tom_liborio
 github_username:  airtonjal
 facebook_username:  airtonjal
+linkedin_username:  airton.liborio
 
 # Build settings
 markdown: kramdown
